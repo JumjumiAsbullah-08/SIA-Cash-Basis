@@ -3,24 +3,12 @@
 SIA Cash Basis adalah sistem akuntansi berbasis kas yang dikembangkan untuk **CV. Tamora Electric**. Proyek ini dibangun menggunakan PHP, MySQL, dan mengadopsi tema [SB Admin 2](https://startbootstrap.com/theme/sb-admin-2) agar tampilan responsif dan modern. Selain itu, digunakan juga [Chart.js](https://www.chartjs.org/) untuk grafik interaktif dan [FontAwesome](https://fontawesome.com/) untuk ikon-ikon yang menarik.
 ## Teknologi yang Digunakan
 
-Proyek ini dibangun dengan menggunakan teknologi dan framework berikut:
-- **PHP**  
-  ![PHP Logo](https://www.php.net/images/logos/new-php-logo.png)
-
-- **MySQL**  
-  ![MySQL Logo](https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg)
-
-- **Bootstrap**  
-  ![Bootstrap Logo](https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png)
-
-- **Chart.js**  
-  ![Chart.js Logo](https://www.chartjs.org/img/chartjs-logo.svg)
-
-- **FontAwesome**  
-  ![FontAwesome Logo](https://upload.wikimedia.org/wikipedia/commons/4/4e/Font_Awesome_5_logo.svg)
-
-- **SB Admin 2**  
-  ![SB Admin 2 Logo](https://startbootstrap.com/assets/img/logos/sb-admin-2.svg)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Chart.js](https://img.shields.io/badge/-Chart.js-FB8C00?style=flat-square&logo=chartdotjs&logoColor=white)
+![FontAwesome](https://img.shields.io/badge/-FontAwesome-2E2E2E?style=flat-square&logo=fontawesome&logoColor=white)
+![SB Admin 2](https://img.shields.io/badge/-SB%20Admin%202-4E73DF?style=flat-square)
 
 ## Fitur
 
